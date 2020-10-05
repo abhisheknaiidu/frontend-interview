@@ -48,3 +48,4 @@ printFullName.apply(userInfo, ["Bilaspur", "Chattisgarh"])
 let printMyName = printFullName.bind(userInfo, "Bilaspur", "Chattisgarh")
 // we'll need to invoke to see the results
 printMyName();
+
