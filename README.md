@@ -1,3 +1,3 @@
 Topics: 
 
-[x] Call, Apply and Bind Methods
+* [x] Call, Apply and Bind Methods
