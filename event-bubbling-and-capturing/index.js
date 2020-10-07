@@ -2,6 +2,7 @@
 // Event Capturing can also be called as Event Trickling.
 
 // Event Bubbling : Bubbles out in the DOM tree in the order child -> parent -> grandparent
+// that is up the Hierarchy!
 // Event Trickling :  reverse of bubbling, trickles down the DOM tree
 // in the order grandparent -> parent -> child
 // according to w3, first event capturing happens then bubbling.
