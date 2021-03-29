@@ -13,8 +13,8 @@ let exampleForCall = {
 };
 
 // We want to print full name of object exampleForCall, so we can
-// borrow fuction from object name using call(), it allows us to borrow functions from
-// other objects
+// borrow fuction from object name using call(), 
+//so basically, it allows us to borrow functions from other objects.
 
 name.printFullName.call(exampleForCall);
 
