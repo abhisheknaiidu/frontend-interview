@@ -1,3 +1,5 @@
+// A curried function is a function that takes multiple arguments ONE at a time!!!!!
+
 let addition = function (x, y) {
   console.log(x + y);
 };
