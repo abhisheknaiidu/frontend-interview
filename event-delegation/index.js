@@ -20,3 +20,5 @@ document.querySelector("#category").addEventListener("click", (e) => {
 // Cons
 // All the events are not bubbled up, some of them like blur, focus and resizing of the window, scrolling
 // are not able to bubble up to the Hierarchy!
+
+// One more example can be of TODO List
