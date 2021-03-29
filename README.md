@@ -10,7 +10,6 @@ Topics:
 - [x] Event Delegation
 - [x] Protypes and Prototypal Inheritence
 - [x] Dan Abramov's Just Javascipt
-- [ ] Prototypal Inheritance 
 - [x] Primitive and Reference Types
 - [ ] Scoping
 - [ ] Closures
