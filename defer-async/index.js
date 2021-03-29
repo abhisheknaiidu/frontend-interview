@@ -20,4 +20,4 @@
 // case of loading google analytics script, which is not dependent of any of the code, which
 // we've written
 // and if our scripts are dependent of one-each other, we can then use defer.
-// Mostly defer is preffered that async.
+// Mostly defer is preffered over async.
