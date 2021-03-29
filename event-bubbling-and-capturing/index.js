@@ -1,3 +1,5 @@
+// Event Bubbling and Event Capturing is the most used terminology in JavaScript at the time of event flow. 
+
 // Event Bubbling and Capturing are the two different ways of propagation in a DOM tree
 // Event Capturing can also be called as Event Trickling.
 
