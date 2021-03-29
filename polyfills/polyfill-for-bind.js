@@ -16,6 +16,7 @@ let printName = function (hometown, state) {
 let printMyName = printName.bind(userInfo, "Bilaspur", "Chattisgarh");
 printMyName();
 
+// Since function is a class, so in order to attach a method/function to the classes in javascript, we use prototypes
 // Function.prototype because then every method has access to this myBind function.
 Function.prototype.myBind = function (...args) {
   // ...args is basically extracting all the info that is being passed.
