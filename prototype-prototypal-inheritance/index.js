@@ -1,3 +1,9 @@
+// Almost all objects in Javascript pass down properties through a prototype chain. 
+// We call this chain, prototypal inheritance. The child of the object "inherits" properties from its parent.
+// The objects inherit methods and properties from Object.prototype
+// The prototype property also has an accessor property called __proto__ that creates 
+// a link between the current object and points to the object it was created from, the "prototype". 
+
 // Inheritance helps one object to access properties of another object
 // Whenever we create a JS object or a function, then JS engine without even telling
 // attaches few built-in properties and functions and these all come via Prototypal => __proto__

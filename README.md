@@ -8,7 +8,7 @@ Topics:
 - [x] Event Bubbling
 - [x] Event Capturing aka Trickling
 - [x] Event Delegation
-- [x] Protypes and Prototypal Inheritence
+- [x] Protoypes and Prototypal Inheritence
 - [x] Dan Abramov's Just Javascipt
 - [x] Primitive and Reference Types
 - [ ] Scoping
